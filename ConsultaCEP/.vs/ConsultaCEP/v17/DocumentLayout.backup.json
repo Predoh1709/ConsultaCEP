@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\data\\consultacepdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:data\\consultacepdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\dtos\\contatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:dtos\\contatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|c:\\users\\ph170\\desktop\\consultacep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB19827-ABFD-D0AE-8F56-22530FE5FF0F}|ConsultaCEP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:59:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultaCEPDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Data\\ConsultaCEPDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ConsultaCEPDbContext.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Data\\ConsultaCEPDbContext.cs",
+              "RelativeToolTip": "Data\\ConsultaCEPDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:37.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:28.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\DTOs\\EnderecoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EnderecoDTO.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\DTOs\\EnderecoDTO.cs",
+              "RelativeToolTip": "DTOs\\EnderecoDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:16.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContatoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\DTOs\\ContatoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ContatoDTO.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\DTOs\\ContatoDTO.cs",
+              "RelativeToolTip": "DTOs\\ContatoDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:15.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "DTOs\\ClienteDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:14.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:10.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "Services\\EnderecoService.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "Services\\EnderecoService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:05.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContatoService.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Services\\ContatoService.cs",
+              "RelativeDocumentMoniker": "Services\\ContatoService.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Services\\ContatoService.cs",
+              "RelativeToolTip": "Services\\ContatoService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:51:03.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:47:29.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ph170\\Desktop\\ConsultaCEP\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:08:36.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

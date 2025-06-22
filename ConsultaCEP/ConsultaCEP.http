@@ -1,0 +1,95 @@
+@ConsultaCEP_HostAddress = http://localhost:5214
+
+POST {{ConsultaCEP_HostAddress}}/api/Cliente
+Content-Type: application/json
+
+{
+  "nome": "João da Silva",
+  "contatos": [
+    { "tipo": "email", "texto": "joao@email.com" }
+  ],
+  "enderecos": [
+    { "cep": "13108-275", "numero": "123", "complemento": "Apto 1" }
+  ]
+}
+###
+
+PUT {{ConsultaCEP_HostAddress}}/api/Cliente/1
+Content-Type: application/json
+
+{
+  "nome": "João da Silva Atualizado"
+}
+###
+
+GET {{ConsultaCEP_HostAddress}}/api/Cliente
+Accept: application/json
+###
+
+GET {{ConsultaCEP_HostAddress}}/api/Cliente/1
+Accept: application/json
+###
+
+DELETE {{ConsultaCEP_HostAddress}}/api/Cliente/1
+###
+
+POST {{ConsultaCEP_HostAddress}}/api/Contato?clienteId=1
+Content-Type: application/json
+
+{
+  "tipo": "telefone",
+  "texto": "(19) 99999-9999"
+}
+###
+
+PUT {{ConsultaCEP_HostAddress}}/api/Contato/1?clienteId=1
+Content-Type: application/json
+
+{
+  "tipo": "email",
+  "texto": "novo@email.com"
+}
+###
+
+GET {{ConsultaCEP_HostAddress}}/api/Contato?clienteId=1
+Accept: application/json
+###
+
+GET {{ConsultaCEP_HostAddress}}/api/Contato/1?clienteId=1
+Accept: application/json
+###
+
+DELETE {{ConsultaCEP_HostAddress}}/api/Contato/1?clienteId=1
+###
+
+POST {{ConsultaCEP_HostAddress}}/api/Endereco?clienteId=1
+Content-Type: application/json
+
+{
+  "cep": "14400-475",
+  "numero": "456",
+  "complemento": "Casa"
+}
+###
+
+PUT {{ConsultaCEP_HostAddress}}/api/Endereco/1?clienteId=1
+Content-Type: application/json
+
+{
+  "cep": "13847-206",
+  "numero": "789",
+  "complemento": "Apt"
+}
+###
+
+
+GET {{ConsultaCEP_HostAddress}}/api/Endereco?clienteId=1
+Accept: application/json
+###
+
+GET {{ConsultaCEP_HostAddress}}/api/Endereco/1?clienteId=1
+Accept: application/json
+###
+
+DELETE {{ConsultaCEP_HostAddress}}/api/Endereco/1?clienteId=1
+###
