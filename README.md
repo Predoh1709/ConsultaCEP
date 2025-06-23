@@ -6,7 +6,6 @@ Este repositório contém uma API RESTful desenvolvida com **ASP.NET Core**, uti
 
 ## 📦 Estrutura do Projeto
 
-- `ConsultaCEP.API` – Projeto principal da API.
 - `DTOs` – Objetos de transferência de dados (entrada/saída).
 - `Entities` – Entidades do domínio.
 - `Services` – Lógica de negócios com interfaces desacopladas.
